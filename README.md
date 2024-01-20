@@ -12,5 +12,5 @@ I am a theoretical particle physicist with interest in explainable and robust AI
 For further information contact me via Email or check out 
 
 - :e-mail: philipp.a.kreer@tum.de
-- LinkedIn: https://www.linkedin.com/in/philipp-alexander-kreer-b25341208/?locale=en_US
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/philipp-alexander-kreer-b25341208/?locale=en_US) 
 - :page_with_curl: [Publication record](https://inspirehep.net/authors/1891203)
