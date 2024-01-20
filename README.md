@@ -5,8 +5,8 @@ I am a theoretical particle physicist with interest in explainable and robust AI
 **Public Repositories:**
 
 - TTH: Mathematica package to evaluate the scattering amplitude $gg\to t\overline{t}H$, published in the [preprint](https://arxiv.org/abs/2312.10015).
-- QFT-AI: Implementation of experiments conducting in this [paper](https://arxiv.org/abs/2004.10802).
-- arXiv_filter: A customizeable filter for daily publications.
+- QFT_AI: Implementation of experiments conducting in this [paper](https://arxiv.org/abs/2004.10802).
+- arXiv-filter: A customizeable filter for daily publications.
 
 
 For further information contact me via Email or check out 
