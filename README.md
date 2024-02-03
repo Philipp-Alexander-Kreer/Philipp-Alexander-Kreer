@@ -17,7 +17,11 @@ You are interested in:
 - Construction of robust AI systems?
 - AI Alignment?
 
-Please reach out to me :smiley:
+Please reach out to me :smiley: or participate in 
+
+:books: + :taco: Read&Eat Seminar: AI meets Physics every Thursday 5pm in [Room 3342](https://www.ph.tum.de/about/visit/roomfinder/?room=5101.01.342&language=de)
+
+
 
 
 **:open_file_folder: Public Repositories:**
@@ -32,4 +36,4 @@ Please reach out to me :smiley:
 - :e-mail: philipp.a.kreer@tum.de
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/philipp-alexander-kreer-b25341208/?locale=en_US) 
 - :page_with_curl: [Publication record](https://inspirehep.net/authors/1891203)
-- :books: + :taco: Read&Eat Seminar: AI meets Physics every Thursday 5pm in [Room 3342](https://www.ph.tum.de/about/visit/roomfinder/?room=5101.01.342&language=de)
+
