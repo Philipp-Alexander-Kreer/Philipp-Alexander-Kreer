@@ -1,12 +1,15 @@
 ### Hello there 👋
 
-I am a theoretical particle physicist with interest in explainable and robust AI systems. My reasearch interests are twofold: On hand I apply the framework of particle physics to compute precision predictions for experiments at the Large Hadron Collider in CERN. On the other hand the same mathematical framework can be used to analyze various AI models (e.g. neurel networks, convolutional neurel networks, or GPT-like transformer architectures). The repository QFT-AI is an example. QFT stands for Quantum Field Theory which is the mathematical framework of particle physics. In this repository, I am reprodcing the experiments of this [paper](https://arxiv.org/abs/2004.10802). 
+I am a theoretical particle physicist with interest in explainable and robust AI systems. My reasearch interests are twofold: On hand I apply Quantum Field Theory (QFT) the framework of modern particle physics to compute precision predictions for experiments at the Large Hadron Collider in CERN. On the other hand the same mathematical framework can be used to analyze various AI models (e.g. neurel networks, convolutional neurel networks, or GPT-like transformer architectures). The repository QFT-AI, see below, gives an example on the interaction between these two fields. 
+
+Currently, I am investigate the possibility to approximate the function TTH, see corresponding repository and [my paper](https://arxiv.org/abs/2312.10015), with a neurel network. A successful implementtation would faciliate precision predictions for experiments at the Large Hadron Collider. 
+On the theoretical side, I am studying how the framework [Neurel Networks and Quantum Field Theory](https://arxiv.org/pdf/2008.08601.pdf) can be used to make transparent the calculations done in [The Principles of Deep Learning Theory](https://arxiv.org/abs/2106.10165)
 
 **Public Repositories:**
 
-- TTH: Mathematica package to evaluate the scattering amplitude $gg\to t\overline{t}H$, published in the [preprint](https://arxiv.org/abs/2312.10015).
-- QFT_AI: Implementation of experiments conducting in this [paper](https://arxiv.org/abs/2004.10802).
-- arXiv-filter: A customizeable filter for daily publications.
+- TTH: Mathematica package to evaluate the scattering amplitude $gg\to t\overline{t}H$, published in [my paper](https://arxiv.org/abs/2312.10015) in collaboration with Federico Buccioni, Xia Liu, and Lorenzo Tancredi.
+- QFT_AI: I reproduce the experiments done in [Neurel Networks and Quantum Field Theory](https://arxiv.org/pdf/2008.08601.pdf) for the ReLU activation function. This work investigates the mathematical description of AI models in Quantum Field Theory.
+- arXiv-filter: A customizeable filter for daily arXiv publications.
 
 
 For further information contact me via Email or check out 
