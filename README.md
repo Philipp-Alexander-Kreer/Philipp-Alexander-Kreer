@@ -19,7 +19,10 @@ You are interested in:
 
 Please reach out to me :smiley: or participate in 
 
-:books: + :taco: Read&Eat Seminar: AI meets Physics every Thursday 5pm in [Room 3342](https://www.ph.tum.de/about/visit/roomfinder/?room=5101.01.342&language=de)
+:books: + :taco: Read&Eat Seminar: AI meets Physics 
+- When? Every Thursday 5pm
+- Where? Physic Deprtement [Room 3342](https://www.ph.tum.de/about/visit/roomfinder/?room=5101.01.342&language=de)
+- What? 1 hour read $\to$ dinner + discussion
 
 
 
