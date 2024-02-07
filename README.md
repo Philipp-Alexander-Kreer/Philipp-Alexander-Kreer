@@ -31,7 +31,7 @@ Please reach out to me :smiley: or participate in
 
 - [TTH](https://github.com/p-a-kreer/TTH): Mathematica package to evaluate the scattering amplitude $gg\to t\overline{t}H$, published in [my paper](https://arxiv.org/abs/2312.10015) in collaboration with Federico Buccioni, Xia Liu, and Lorenzo Tancredi.
 - [QFT_AI](https://github.com/p-a-kreer/QFT_AI): I reproduce the experiments done in [Neural Networks and Quantum Field Theory](https://arxiv.org/pdf/2008.08601.pdf) for the ReLU activation function. This work investigates the mathematical description of AI models in Quantum Field Theory.
-- [arXiv-filter](https://github.com/p-a-kreer/arXiv-filter): A customizeable filter for daily arXiv publications.
+- [arXiv_filter](https://github.com/p-a-kreer/arXiv_filter)): A customizeable filter for daily arXiv publications.
 
 
 **:bust_in_silhouette: Further Information and Contact:**
