@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I am a theoretical particle physicist at the Technical University of Munich with interest in explainable and robust AI systems. I am in the third year of the PhD and expect to finish in September 2025. In my free time I enjoy hiking in the alps :sunrise_over_mountains:, doing calisthenics :weight_lifting_man: and cooking :man_cook:.
+I am a theoretical particle physicist at the Technical University of Munich with interest in explainable and robust AI systems. I am in the third year of the PhD and expect to finish in September 2025. In my free time I am preparing my journey to Patagonia. 
 
 **:scientist: Research Interests:**
 
